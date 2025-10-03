@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Base application theme for night mode, dependent on the API level.
+    This theme is replaced by the Jetpack Compose theme in the activity.
+    -->
+    <style name="Theme.Jetpack" parent="android:Theme.Material.NoActionBar" />
+</resources>
